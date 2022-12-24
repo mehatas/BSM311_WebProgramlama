@@ -7,7 +7,7 @@ namespace WebProje.Models
         [Key]
         public int Id { get; set; }
 
-        [Display(Name = "Profil Fotoğrafı")]
+        [Display(Name = "Profil Fotografi")]
         public string ProfilFotoURL { get; set; }
 
         [Display(Name = "İsim")]

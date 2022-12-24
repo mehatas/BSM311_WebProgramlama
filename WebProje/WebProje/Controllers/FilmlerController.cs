@@ -15,7 +15,7 @@ namespace WebProje.Controllers
         public async Task<IActionResult> Index()
         {
             var tumFilmler = await _context.Filmler.ToListAsync();
-            return View();
+            return View(tumFilmler);
         }
     }
 }

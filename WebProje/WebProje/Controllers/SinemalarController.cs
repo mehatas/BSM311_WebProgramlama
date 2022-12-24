@@ -15,7 +15,7 @@ namespace WebProje.Controllers
         public async Task<IActionResult> Index()
         {
             var tumSinemalar = await _context.Sinemalar.ToListAsync();
-            return View();
+            return View(tumSinemalar);
         }
     }
 }

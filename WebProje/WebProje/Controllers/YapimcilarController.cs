@@ -15,7 +15,7 @@ namespace WebProje.Controllers
         public async Task<IActionResult> Index()
         {
             var tumYapimcilar = await _context.Yapimcilar.ToListAsync();
-            return View();
+            return View(tumYapimcilar);
         }
     }
 }

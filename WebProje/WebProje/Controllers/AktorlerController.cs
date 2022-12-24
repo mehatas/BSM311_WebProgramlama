@@ -14,7 +14,7 @@ namespace WebProje.Controllers
         public IActionResult Index()
         {   
             var data= _context.Aktorler.ToList();   
-            return View();
+            return View(data);
         }
     }
 }

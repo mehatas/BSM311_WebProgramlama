@@ -6,8 +6,11 @@ namespace WebProje.Models
     {
         [Key]
         public int Id { get; set; }
+        [Display(Name ="Profil Fotografi")]
         public string ProfilFotoURL { get; set; }
+        [Display(Name = "İsim")]
         public string Isim { get; set; }
+        [Display(Name = "Biyografi")]
         public string Biyografi { get; set; }
 
 

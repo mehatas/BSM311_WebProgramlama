@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using WebProje.Data.Enums;
 
 namespace WebProje.Models
@@ -14,5 +15,20 @@ namespace WebProje.Models
         public DateTime Baslangic { get; set; }
         public DateTime Bitis { get; set; }
         public Kategori Kategori { get; set; }
+
+        public List<Aktor_Film> Aktor_Filmler { get; set; }
+
+        //sinema
+        public int SinemaId { get; set; }
+        [ForeignKey("SinemaId")]
+        public Sinema Sinema { get; set; }
+
+
+        //yapimci
+        public int YapimciId { get; set; }
+        [ForeignKey("YapimciId")]
+        public Yapimcilar Yapimci { get; set; }
+
+
     }
 }

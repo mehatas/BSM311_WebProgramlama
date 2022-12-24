@@ -5,6 +5,8 @@
         Aksiyon = 1,
         Komedi,
         Dram,
-        Belgesel
+        Belgesel,
+        Animasyon,
+        Korku
     }
 }

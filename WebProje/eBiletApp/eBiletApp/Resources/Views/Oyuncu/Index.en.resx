@@ -123,11 +123,14 @@
   <data name="Düzenle" xml:space="preserve">
     <value>Edit</value>
   </data>
-  <data name="Oyuncu Ekle" xml:space="preserve">
-    <value>Create a New Actor</value>
+  <data name="FOTOĞRAF" xml:space="preserve">
+    <value>Photo</value>
   </data>
-  <data name="OYUNCULAR" xml:space="preserve">
-    <value>ACTORS</value>
+  <data name="Oyuncu Ekle" xml:space="preserve">
+    <value>Add a New Actors</value>
+  </data>
+  <data name="Oyuncular" xml:space="preserve">
+    <value>Actors</value>
   </data>
   <data name="Sil" xml:space="preserve">
     <value>Delete</value>

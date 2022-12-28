@@ -244,7 +244,7 @@ namespace eBiletApp.Data
                         YonetmenHakkinda = "Ömer Faruk Sorak, görüntü ve video klip yönetmeni. " +
                         "1986 yılında Ankara Üniversitesi Basın Yayın Yüksekokulu'nu bitirdi. 1987-1995 yılları arasında TRT'de kameraman olarak çalıştı.",
                         YonetmenFotografi = "~/images/Yonetmenler/omerfaruksorak.jpg"
-                        //yahsi bati, gora
+                      
 
                     },
 
@@ -258,7 +258,7 @@ namespace eBiletApp.Data
                             "Leman Kültür Merkezinde gerçekleştirdi. Sonrasında Beşiktaş Kültür Merkezinde sahne almaya başladı ve burada düzenlediği " +
                             "gösteriler ile adını duyurmayı başararak günümüze kadar toplamda 4.000'den fazla kez sahneye çıktı.",
                             YonetmenFotografi = "~/images/Oyuncular/cemyilmaz.jfif"
-                        //pek yakinda
+                      
 
                     },
 
@@ -267,7 +267,7 @@ namespace eBiletApp.Data
                         YonetmenAdSoyad = "Ali Atay",
                         YonetmenHakkinda = "Dursun Ali Atay, Türk oyuncu, müzisyen ve film yönetmeni.",
                         YonetmenFotografi = "~/images/Yonetmenler/aliatay.jpg"
-                        //olumlu dunya
+                        
 
                     },
 
@@ -276,7 +276,7 @@ namespace eBiletApp.Data
                         YonetmenAdSoyad = "Çağan Irmak",
                         YonetmenHakkinda = "Çağan Irmak, Türk dizi ve film yönetmeni, senaryo yazarı. ",
                         YonetmenFotografi = "~/images/Yonetmenler/caganirmak.jpg"
-                        //unutursam fisilda
+                       
 
                     },
 
@@ -285,7 +285,7 @@ namespace eBiletApp.Data
                         YonetmenAdSoyad = "Yağmur Taylan",
                         YonetmenHakkinda = "Yağmur Taylan, Bursa doğumlu Türk film yönetmeni.",
                         YonetmenFotografi = "~/images/Yonetmenler/yagmurtaylan.jpg"
-                        //pek yakinda
+                    
 
                     }
 
@@ -314,9 +314,7 @@ namespace eBiletApp.Data
 
                         new Film()
                         {
-
-                            
-                            
+                                
                             FilmAdi = "Bergen",
                             FilmHakkinda = "Türk arabesk şarkıcısı Bergen, hayatındaki tüm zorluklara rağmen ayakta kalma mücadelesi vermektedir." +
                             "Acıların Kadını lakaplı ünlü arabesk sanatçısı Bergen’in hayatının anlatıldığı bu filmde Bergen'e Farah Zeynep Abdullah hayat veriyor.",

@@ -127,12 +127,12 @@
     <value>Delete</value>
   </data>
   <data name="Sinema Ekle" xml:space="preserve">
-    <value>Create a New Cinema</value>
+    <value>Add a New Cinema</value>
   </data>
   <data name="SINEMA LOGO" xml:space="preserve">
-    <value>CINEMA LOGO</value>
+    <value>Cinema Logo</value>
   </data>
   <data name="SİNEMALAR" xml:space="preserve">
-    <value>CINEMAS</value>
+    <value>Cinema</value>
   </data>
 </root>

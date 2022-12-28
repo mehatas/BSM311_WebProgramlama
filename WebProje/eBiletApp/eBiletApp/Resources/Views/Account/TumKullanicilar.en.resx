@@ -117,7 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Tüm Üyeler" xml:space="preserve">
+  <data name="ADI SOYADI" xml:space="preserve">
+    <value>Name Surname</value>
+  </data>
+  <data name="Tüm Kullanıcılar" xml:space="preserve">
     <value>All Members</value>
   </data>
 </root>

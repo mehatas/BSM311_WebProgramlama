@@ -120,6 +120,9 @@
   <data name="Ekle" xml:space="preserve">
     <value>Create</value>
   </data>
+  <data name="Fotoğraf" xml:space="preserve">
+    <value>Photo</value>
+  </data>
   <data name="Geri Dön" xml:space="preserve">
     <value>Back</value>
   </data>

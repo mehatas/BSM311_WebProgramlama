@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OIShA8kdLZMKeg0BSuNOm6u0ySI89dvByugrMVSRBnc=",
+  "Hash": "QaU4d+3zFVpajj4aTWua+fZqVwva3CZ9gu7ovJTfVyI=",
   "Source": "eBiletApp",
   "BasePath": "_content/eBiletApp",
   "Mode": "Default",
@@ -440,23 +440,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg",
-      "SourceId": "eBiletApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
-      "BasePath": "_content/eBiletApp",
-      "RelativePath": "images/Oyuncular/erdal-besikcioglu-1670323859.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg"
     },
     {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",

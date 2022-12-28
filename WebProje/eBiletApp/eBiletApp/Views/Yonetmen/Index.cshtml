@@ -4,7 +4,7 @@
     ViewData["Title"] = "Yönetmenler";
 }
 
-<h1>Yönetmenler</h1>
+<h1>@localizer["Yönetmenler"]</h1>
 @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
 {
     <p>

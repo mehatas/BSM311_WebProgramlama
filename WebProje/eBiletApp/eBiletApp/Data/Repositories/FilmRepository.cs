@@ -37,9 +37,6 @@ namespace eBiletApp.Data.Repositories
             _context.Filmler.Remove(silinecekFilm);
             _context.SaveChanges();
 
-            //var silinecekFilm = _context.Filmler.FirstOrDefault(m => m.FilmId == id);
-            // _context.Filmler.Remove(silinecekFilm);
-            //_context.SaveChanges();
         }
 
         public async Task FilmEkle(FilmVM fvm)
@@ -57,9 +54,6 @@ namespace eBiletApp.Data.Repositories
             film.YonetmenId = fvm.YonetmenId;
             await _context.Filmler.AddAsync(film);
             await _context.SaveChangesAsync();
-
-            //yukdarıdaki işlemlerle viewmodelimizdeki verileri bir film nesnesi oluşturarak ona atadık ve veritabanına kaydettik.
-            //Şimdi de veritabanına kaydedilen yeni filmin id'sini kullanarak oyuncuları ekleyeceğiz.
 
             foreach(var oyuncu in fvm.OyuncuListesi) //oyunculistesi oyuncu id'lerini tutuyor
             {
@@ -101,13 +95,13 @@ namespace eBiletApp.Data.Repositories
                 filmiBul.YonetmenId = fvm.YonetmenId;
                 await _context.SaveChangesAsync();
             }
-                //Güncelleme işlemi sonrası değişen oyuncular olabilir, bu sebeple önceki eklenen oyuncular veritabanından silinip yenileri eklenmeli.
+                
 
                 var oncekiOyunvcular = _context.FilmlerOyuncular.Where(m => m.FilmId == fvm.FilmId).ToList();
                 _context.FilmlerOyuncular.RemoveRange(oncekiOyunvcular);
                 await _context.SaveChangesAsync();
 
-            foreach (var oyuncu in fvm.OyuncuListesi) //oyunculistesi oyuncu id'lerini tutuyor
+            foreach (var oyuncu in fvm.OyuncuListesi) 
             {
                 var filmoyuncu = new FilmOyuncu();
                 filmoyuncu.FilmId = fvm.FilmId;

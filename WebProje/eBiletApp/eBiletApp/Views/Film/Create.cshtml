@@ -5,7 +5,7 @@
     ViewData["Title"] = "Film Ekle";
 }
 
-<h1 class="text-center">Film Ekle</h1>
+<h1 class="text-center">@localizer["Film Ekle"]</h1>
 
 <hr />
 <div class="row">
@@ -22,10 +22,11 @@
                 <textarea asp-for="FilmHakkinda" rows="5" class="form-control"></textarea>
                 <span asp-validation-for="FilmHakkinda" class="text-danger"></span>
             </div>
+            <div class="form-group text-center">
+                <label asp-for="FilmBaslamaSaati1" class="control-label"></label>
+            </div>
             <div class="row">
-                <div class="form-group col-4">
-                    <label asp-for="FilmBaslamaSaati1" class="control-label"></label>
-                </div>
+                
                 <div class="form-group col-4">
                     <input asp-for="FilmBaslamaSaati1" type="time" class="form-control" />
                     <span asp-validation-for="FilmBaslamaSaati1" class="text-danger"></span>
@@ -60,7 +61,7 @@
                 <label asp-for="SinemaId" class="control-label"></label>
                 <select asp-for="SinemaId" class="form-control" asp-items="ViewBag.SinemaId"></select>
             </div>
-            <div class="form-group">
+            <div class="form-group text-center">
                 <label asp-for="YonetmenId" class="control-label"></label>
                 <select asp-for="YonetmenId" class="form-control" asp-items="ViewBag.YonetmenId"></select>
             </div>

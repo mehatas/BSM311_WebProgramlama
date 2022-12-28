@@ -123,13 +123,16 @@
   <data name="Düzenle" xml:space="preserve">
     <value>Edit</value>
   </data>
+  <data name="FOTOĞRAF" xml:space="preserve">
+    <value>Photo</value>
+  </data>
   <data name="Sil" xml:space="preserve">
     <value>Delete</value>
   </data>
   <data name="Yönetmen Ekle" xml:space="preserve">
-    <value>Create a New Director</value>
+    <value>Add a New Director</value>
   </data>
-  <data name="YÖNETMENLER" xml:space="preserve">
-    <value>DIRECTORS</value>
+  <data name="Yönetmenler" xml:space="preserve">
+    <value>Directors</value>
   </data>
 </root>

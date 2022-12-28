@@ -3,6 +3,7 @@ using eBiletApp.Data.Repositories;
 using eBiletApp.Data.Repositories.Abstract;
 using eBiletApp.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Builder.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -99,13 +100,15 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 //coklu dil destegi icin
-app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
+app.UseRequestLocalization(((IApplicationBuilder)app).ApplicationServices.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
 
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Film}/{action=Index}/{id?}");
-
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Film}/{action=Index}/{id?}");
+});
 
 BiletDbInitializer.EklenecekVeriler(app);
 BiletDbInitializer.KullaniciVeRolEkle(app).Wait();

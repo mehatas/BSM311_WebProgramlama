@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="form-group">
-                <label asp-for="FilmFotografi" class="control-label">@localizer["yenifoto"]</label>
+                <label asp-for="FilmFotografi" class="control-label">@localizer["Yeni Görsel"]</label>
                 <input asp-for="FilmFotografi" type="file" name="file" class="form-control  mb-2" />
                 <input style="display:none;" asp-for="FilmFotografi" class="form-control mb-2" />
                 <span asp-validation-for="FilmFotografi" class="text-danger"></span>
@@ -71,8 +71,8 @@
             </div>
 
             <div class="form-group">
-                <input type="submit" value="@localizer["kaydet"]" class="btn btn-primary" />
-                <a class="btn btn-secondary float-right" asp-action="Index">@localizer["geridon"]</a>
+                <input type="submit" value="@localizer["Kaydet"]" class="btn btn-primary" />
+                <a class="btn btn-secondary float-right" asp-action="Index">@localizer["Geri Dön"]</a>
             </div>
         </form>
     </div>

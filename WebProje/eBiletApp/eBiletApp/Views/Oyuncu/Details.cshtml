@@ -4,7 +4,7 @@
     ViewData["Title"] = "Oyuncu Hakkında";
 }
 
-<h1>@localizer["oyuncubilgileri"]</h1>
+<h1>@localizer["Oyuncu Bilgileri"]</h1>
 
 <div>
     <hr />
@@ -32,5 +32,5 @@
 <div>
     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
     {<a class="btn btn-outline-light text-dark" asp-action="Edit" asp-route-id="@Model.OyuncuId">@localizer["Düzenle"]</a>}
-<a class="btn btn-secondary ml-3" asp-action="Index">@localizer["geridon"]</a>
+<a class="btn btn-secondary ml-3" asp-action="Index">@localizer["Geri Dön"]</a>
 </div>

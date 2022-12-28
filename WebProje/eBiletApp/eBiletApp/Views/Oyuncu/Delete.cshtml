@@ -4,7 +4,7 @@
     ViewData["Title"] = "Oyuncu Sil";
 }
 
-<h3>@localizer["Are you sure you want to delete this?"]</h3>
+<h3>@localizer["Silmek istediğinize emin misiniz?"]</h3>
 <div>
     <hr />
     <dl class="row">
@@ -30,7 +30,7 @@
 
     <form asp-action="Delete">
         <input type="hidden" asp-for="OyuncuId" />
-        <input type="submit" value="@localizer["sil"]" class="btn btn-danger" />
-        <a class="btn btn-secondary float-right" asp-action="Index">@localizer["geridon"]</a>
+        <input type="submit" value="@localizer["Sil"]" class="btn btn-danger" />
+        <a class="btn btn-secondary float-right" asp-action="Index">@localizer["Geri Dön"]</a>
     </form>
 </div>

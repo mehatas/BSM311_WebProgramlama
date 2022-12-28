@@ -4,10 +4,10 @@
     ViewData["Title"] = "Oyuncu Ekle";
 }
 
-<h2>@localizer["oyuncuekle"]</h2>
+<h2>@localizer["Oyuncu Ekle"]</h2>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-left m-auto form">
         <form method="post" enctype="multipart/form-data" asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -26,8 +26,8 @@
                 <span asp-validation-for="OyuncuHakkinda" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="@localizer["ekle"]" class="btn btn-outline-light text-dark" />
-                <a class="btn btn-secondary float-right" asp-action="Index">@localizer["geridon"]</a>
+                <input type="submit" value="@localizer["Ekle"]" class="btn btn-outline-light text-dark" />
+                <a class="btn btn-secondary float-right" asp-action="Index">@localizer["Geri Dön"]</a>
             </div>
         </form>
     </div>

@@ -14,8 +14,8 @@
 <body style="background: linear-gradient(45deg,  ghostwhite, lightgrey);">
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark border-bottom box-shadow mb-3" style="background: linear-gradient(45deg, lightgrey, ghostwhite); ">
-            <div class="float-left"><partial name="_Culture" /></div>
-            <div class="container">
+            <div class="float-md-right"><partial name="_Culture" /></div>
+            <div class="container-fluid">
 
                 <a class="navbar-brand" asp-controller="Film" asp-action="Index"><h1 class="text-dark" >eBilet</h1></a>
 
@@ -36,7 +36,7 @@
                         @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
                         {
                             <li class="nav-item dropdown">
-                                <button class="btn btn-outline-light dropdown-toggle text-dark" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <button class="btn btn-outline-light dropdown-toggle border-dark text-dark" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Admin Menu
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -55,7 +55,7 @@
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item rounded dropdown" style="margin-left: 20px;">
-                                <button class="btn btn-outline-light dropdown-toggle text-dark mr-5" type="button" id="kullanici" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <button class="btn btn-outline-light border-dark dropdown-toggle text-dark mr-5" type="button" id="kullanici" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     @localizer["Hoşgeldiniz,"] @kullanici.GetUserName(User)
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="kullanici">
@@ -98,21 +98,12 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    @* <footer class="border-top footer text-muted " style="background: linear-gradient(45deg, blue, red); ">
-            <div class="container ">
-
-                <a class="text-light float-right" style="margin:15px;" asp-area="" asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a>
-                <a class="text-light float-right" style="margin:15px;" asp-area="" asp-controller="Home" asp-action="Iletisim">İletişim</a>
-                <a class="text-light float-right" style="margin:15px;" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-            </div>
-            <div class="text-light align-items-md-center"> <h5>&copy; 2021 - BuyBook</h5>  </div>
-        </footer>*@
 
     <footer class="footer  font-small pt-4 " style="background: linear-gradient(45deg, gray, #C0C0C0);">
         <div class="container-fluid text-center text-md-left text-light" style="white-space: normal;">

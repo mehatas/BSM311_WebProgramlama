@@ -4,8 +4,7 @@
     ViewData["Title"] = "Yönetmenler";
 }
 
-<h1>@localizer["Yönetmenler"]</h1>
-
+<h1 class="text-center">Yönetmenler</h1>
 @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
 {
     <p>
@@ -33,7 +32,7 @@
         {
             <tr class="text-center">
                 <td>
-                    <img src="@item.YonetmenFotografi" asp-append-version="true" style="width:200px; height:200px;">
+                    <img src="@item.YonetmenFotografi" asp-append-version="true" style="width:200px; height:280px;">
                 </td>
                 <td class="font-weight-bold">
                     @Html.DisplayFor(modelItem => item.YonetmenAdSoyad)
@@ -44,11 +43,11 @@
                 <td>
                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
                     {
-                        <a asp-action="Edit" asp-route-id="@item.YonetmenId" class="btn btn-outline-primary">@localizer["Düzenle"]</a>
+                        <a asp-action="Edit" asp-route-id="@item.YonetmenId" class="btn btn-secondary btn-block">@localizer["Düzenle"]</a>
                         <br />
-                        <a asp-action="Details" asp-route-id="@item.YonetmenId" class="btn btn-outline-info">@localizer["Detaylar"]</a>
+                        <a asp-action="Details" asp-route-id="@item.YonetmenId" class="btn btn-info btn-block">@localizer["Detay"]</a>
                         <br />
-                        <a asp-action="Delete" asp-route-id="@item.YonetmenId" class="btn btn-outline-danger">@localizer["  Sil  "]</a>
+                        <a asp-action="Delete" asp-route-id="@item.YonetmenId" class="btn btn-dark btn-block">@localizer["Sil"]</a>
                     }
 
                 </td>

@@ -6,11 +6,11 @@
 }
 
 
-<h1>@localizer["OYUNCULAR"]</h1>
+<h1>@localizer["Oyuncular"]</h1>
 
 @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
 {<p>
-     <a asp-action="Create" class="btn btn-outline-dark">@localizer["oyuncuekle"]</a>
+     <a asp-action="Create" class="btn btn-outline-dark">@localizer["Oyuncu Ekle"]</a>
     </p>
 }
 
@@ -46,11 +46,11 @@
                 <td>
                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
                     {
-                    <a asp-action="Edit" asp-route-id="@item.OyuncuId" class="btn btn-secondary btn-block">@localizer["duzenle"]</a>
+                    <a asp-action="Edit" asp-route-id="@item.OyuncuId" class="btn btn-secondary btn-block">@localizer["Düzenle"]</a>
                         <br />
-                        <a asp-action="Details" asp-route-id="@item.OyuncuId" class="btn btn-info btn-block">@localizer["detaylar"]</a>
+                        <a asp-action="Details" asp-route-id="@item.OyuncuId" class="btn btn-info btn-block">@localizer["Detay"]</a>
                         <br />
-                        <a asp-action="Delete" asp-route-id="@item.OyuncuId" class="btn btn-dark btn-block">@localizer["sil"]</a>
+                        <a asp-action="Delete" asp-route-id="@item.OyuncuId" class="btn btn-dark btn-block">@localizer["Sil"]</a>
                     }
 
                 </td>

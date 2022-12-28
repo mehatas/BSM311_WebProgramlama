@@ -4,11 +4,11 @@
     ViewData["Title"] = "Oyuncu Bilgilerini Düzenle";
 }
 
-<h1>@localizer["Oyuncu Bilgilerini Düzenle"]</h1>
+<h1 class="text-center">@localizer["Oyuncu Bilgilerini Düzenle"]</h1>
 
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-left m-auto form">
         <form method="post" enctype="multipart/form-data" asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="OyuncuId" />

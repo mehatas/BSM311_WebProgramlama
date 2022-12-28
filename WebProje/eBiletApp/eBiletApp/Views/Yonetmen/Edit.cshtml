@@ -4,11 +4,11 @@
     ViewData["Title"] = "Yönetmen Bilgilerini Düzenle";
 }
 
-<h1>@localizer["Yönetmen Bilgilerini Düzenle"]</h1>
+<h1 class="text-center">@localizer["Yönetmen Bilgilerini Düzenle"]</h1>
 
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-left m-auto form">
         <form method="post" enctype="multipart/form-data" asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="YonetmenId" />
@@ -29,8 +29,8 @@
                 <span asp-validation-for="YonetmenHakkinda" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="@localizer["Kaydet"]" class="btn btn-outline-success float-right" />
-                <a class="btn btn-outline-secondary" asp-action="Index">@localizer["Geri Dön"]</a>
+                <input type="submit" value="@localizer["Kaydet"]" class="btn btn-primary" />
+                <a class="btn btn-secondary float-right" asp-action="Index">@localizer["Geri Dön"]</a>
             </div>
         </form>
     </div>

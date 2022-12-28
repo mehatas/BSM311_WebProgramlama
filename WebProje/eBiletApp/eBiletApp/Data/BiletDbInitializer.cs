@@ -1,10 +1,13 @@
 ﻿using eBiletApp.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.CodeAnalysis.Differencing;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace eBiletApp.Data
@@ -296,50 +299,51 @@ namespace eBiletApp.Data
                     {
                         new Film()
                         {
-                            FilmAdi = "Aile Arasında",
-                            FilmHakkinda = "Nevrotik Fikret ile müzikhol vokalisti Solmaz komik bir tesadüfle tanışır. Solmaz'ın kızı Zeynep, " +
-                            "Adanalı sevgilisiyle evlenmeye karar verince Fikret, kendini bir anda hayatının rolünü oynarken bulur.",
+                            FilmAdi = "Ayla",
+                            FilmHakkinda = "Gerçek olaylardan esinlenilen bu yürek sızlatan drama, savaşın ortasında Koreli bir yetimi kurtarıp onunla bağ kuran bir astsubayın hikâyesini anlatıyor.",
                             FilmUcreti = 25,
-                            FilmFotografi = "~/images/Filmler/ailearasinda.jpg",
+                            FilmFotografi = "~/images/Filmler/ayla.jpg",
                             FilmBaslamaSaati1 = "19:30",
                             FilmBaslamaSaati2 = "21:45",
                             FilmBaslamaSaati3="23:00",
                             SinemaId = 1,
                             YonetmenId = 2,
-                            FilmKategorisi = FilmKategorisi.Komedi
-                            //engin
+                            FilmKategorisi = FilmKategorisi.Dram
+                            
                         },
 
                         new Film()
                         {
-                            FilmAdi = "Vavien",
-                            FilmHakkinda = "Vavien, Engin Günaydın ve Binnur Kaya'nın başrollerini oynadığı film. 18 Aralık 2009'da vizyona girmiştir. " +
-                            "Yönetmenliğini Taylan Biraderler olarak bilinen Yağmur ve Durul Taylan yapmıştır. Çekimleri Tokat'ın Erbaa ilçesinde yapıldı.",
+
+                            
+                            
+                            FilmAdi = "Bergen",
+                            FilmHakkinda = "Türk arabesk şarkıcısı Bergen, hayatındaki tüm zorluklara rağmen ayakta kalma mücadelesi vermektedir." +
+                            "Acıların Kadını lakaplı ünlü arabesk sanatçısı Bergen’in hayatının anlatıldığı bu filmde Bergen'e Farah Zeynep Abdullah hayat veriyor.",
                             FilmUcreti = 19,
-                            FilmFotografi = "~/images/Filmler/vavien.jpg",
+                            FilmFotografi = "~/images/Filmler/bergen.jpeg",
                             FilmBaslamaSaati1 = "09:15",
                             FilmBaslamaSaati2 = "12:30",
                             FilmBaslamaSaati3="15:00",
                             SinemaId = 2,
                             YonetmenId = 1,
                             FilmKategorisi = FilmKategorisi.Dram
-                            //engin,binnur
                         },
-
                         new Film()
                         {
-                            FilmAdi = "GORA",
-                            FilmHakkinda = "Senaryosunu Cem Yılmaz'ın yazdığı, yönetmenliğini Ömer Faruk Sorak'ın yaptığı, " +
-                            "bilim kurgu ve komedi türlerindeki 2004 çıkışlı Türk filmidir.",
+                         
+                            FilmAdi = "Recep İvedik 7",
+                            FilmHakkinda = " Hayat şartlarının zorluğu ve şehrin gürültüsünden bunalan Recep, " +
+                            "Nurullah’ı da yanına alarak babaannesinden miras kalan köy evine gider.",
                             FilmUcreti = 30,
-                            FilmFotografi = "~/images/Filmler/gora.jpg",
+                            FilmFotografi = "~/images/Filmler/Recepİvedik7.jpg",
                             FilmBaslamaSaati1 = "20:30",
                             FilmBaslamaSaati2 = "21:45",
                             FilmBaslamaSaati3="23:15",
                             SinemaId = 5,
                             YonetmenId = 5,
                             FilmKategorisi = FilmKategorisi.Komedi
-                            //cem, ozan
+                            
                         },
 
                         new Film()

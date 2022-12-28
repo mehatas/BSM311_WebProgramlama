@@ -12062,19 +12062,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hakan Yılmaz\\.nuget\\packages\\": {}
+    "C:\\Users\\İbrahim ATAŞ\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\eBiletApp.csproj",
+      "projectUniqueName": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\eBiletApp.csproj",
       "projectName": "eBiletApp",
-      "projectPath": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\eBiletApp.csproj",
-      "packagesPath": "C:\\Users\\Hakan Yılmaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\",
+      "projectPath": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\eBiletApp.csproj",
+      "packagesPath": "C:\\Users\\İbrahim ATAŞ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Hakan Yılmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\İbrahim ATAŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12146,7 +12151,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

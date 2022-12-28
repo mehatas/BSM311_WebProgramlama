@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VYltiNBNotsdgBs/HJ/zn+uMg/ePVwlOfHH73Nagm5c=",
+  "Hash": "jKkgvX+3MPNzbkozF1LZyME4QDY/Mwv2rH1IgyoN+ZY=",
   "Source": "eBiletApp",
   "BasePath": "_content/eBiletApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "eBiletApp\\wwwroot",
       "Source": "eBiletApp",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eBiletApp.styles.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eBiletApp.styles.css",
       "SourceId": "eBiletApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "eBiletApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eBiletApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\eBiletApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css",
       "SourceId": "eBiletApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "eBiletApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\css\\site.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\favicon.ico",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ahlatagaci.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ahlatagaci.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/ahlatagaci.jpg",
       "AssetKind": "All",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\ahlatagaci.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ailearasinda.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ayla.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
-      "RelativePath": "images/Filmler/ailearasinda.jpg",
+      "RelativePath": "images/Filmler/ayla.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,13 +116,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Filmler\\ailearasinda.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Filmler\\ayla.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\cicero.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\bergen.jpeg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Filmler/bergen.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Filmler\\bergen.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\cicero.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/cicero.jpg",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\cicero.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\dag2.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\dag2.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/dag2.jpg",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\dag2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\gora.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\gora.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/gora.jpg",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\gora.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\olumludunya.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\olumludunya.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/olumludunya.jpg",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\olumludunya.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\pekyakinda.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\pekyakinda.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/pekyakinda.jpg",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\pekyakinda.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\unutursamfisilda.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\unutursamfisilda.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/unutursamfisilda.jpg",
       "AssetKind": "All",
@@ -221,27 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\unutursamfisilda.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\vavien.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
-      "BasePath": "_content/eBiletApp",
-      "RelativePath": "images/Filmler/vavien.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Filmler\\vavien.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
-      "SourceId": "eBiletApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Filmler/yahsibati.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\yahsibati.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\login.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\login.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/login.png",
       "AssetKind": "All",
@@ -272,10 +272,27 @@
       "OriginalItemSpec": "wwwroot\\images\\login.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\binnurkaya.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Logo.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\binnurkaya.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/binnurkaya.jpg",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\binnurkaya.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\caglarertugrul.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\caglarertugrul.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/caglarertugrul.jpg",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\caglarertugrul.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\cemyilmaz.jfif",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\cemyilmaz.jfif",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/cemyilmaz.jfif",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\cemyilmaz.jfif"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\dogudemirkol.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\dogudemirkol.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/dogudemirkol.png",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\dogudemirkol.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\engingunaydin.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\engingunaydin.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/engingunaydin.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\engingunaydin.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/erdalbesikcioglu.jpg",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/farahzeynep.jfif",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\farahzeynep.jfif"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\mehmetgunsur.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\mehmetgunsur.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/mehmetgunsur.jpg",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\mehmetgunsur.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\ozanguven.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\ozanguven.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/ozanguven.jpg",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\ozanguven.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\zaferalgoz.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\zaferalgoz.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Oyuncular/zaferalgoz.jpg",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\zaferalgoz.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\shopping-cart.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\shopping-cart.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/shopping-cart.png",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shopping-cart.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\sign-up.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\sign-up.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/sign-up.png",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sign-up.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\buyulu-fener.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\buyulu-fener.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Sinemalar/buyulu-fener.jpg",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sinemalar\\buyulu-fener.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemapink.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemapink.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Sinemalar/cinemapink.jpg",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sinemalar\\cinemapink.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemaximum.png",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemaximum.png",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Sinemalar/cinemaximum.png",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sinemalar\\cinemaximum.png"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\prestigeSinema.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\prestigeSinema.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Sinemalar/prestigeSinema.jpg",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sinemalar\\prestigeSinema.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\sinemaYedi.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\sinemaYedi.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Sinemalar/sinemaYedi.jpg",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sinemalar\\sinemaYedi.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\aliatay.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\aliatay.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/aliatay.jpg",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\aliatay.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\alpercaglar.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\alpercaglar.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/alpercaglar.jpg",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\alpercaglar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caganirmak.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caganirmak.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/caganirmak.jpg",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\caganirmak.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/nuribilge.jpg",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\nuribilge.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\omerfaruksorak.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\omerfaruksorak.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/omerfaruksorak.jpg",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\omerfaruksorak.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\ozanaciktan.jfif",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\ozanaciktan.jfif",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/ozanaciktan.jfif",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\ozanaciktan.jfif"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\serdarakar.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\serdarakar.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/serdarakar.jpg",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\serdarakar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\yagmurtaylan.jpg",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\yagmurtaylan.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "images/Yonetmenler/yagmurtaylan.jpg",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\yagmurtaylan.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\js\\site.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
       "BasePath": "_content/eBiletApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

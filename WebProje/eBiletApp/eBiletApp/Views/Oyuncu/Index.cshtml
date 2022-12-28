@@ -10,7 +10,7 @@
 
 @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
 {<p>
-     <a asp-action="Create" class="btn btn-outline-dark">@localizer["Oyuncu Ekle"]</a>
+        <a asp-action="Create" class="btn btn-success text-white">@localizer["Oyuncu Ekle"]</a>
     </p>
 }
 

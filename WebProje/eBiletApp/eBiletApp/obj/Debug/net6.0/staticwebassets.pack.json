@@ -1,295 +1,299 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBiletApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\eBiletApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ahlatagaci.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ahlatagaci.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\ahlatagaci.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ailearasinda.jpg",
-      "PackagePath": "staticwebassets\\images\\Filmler\\ailearasinda.jpg"
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ayla.jpg",
+      "PackagePath": "staticwebassets\\images\\Filmler\\ayla.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\cicero.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\bergen.jpeg",
+      "PackagePath": "staticwebassets\\images\\Filmler\\bergen.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\cicero.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\cicero.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\dag2.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\dag2.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\dag2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\gora.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\gora.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\gora.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\olumludunya.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\olumludunya.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\olumludunya.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\pekyakinda.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\pekyakinda.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\pekyakinda.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\unutursamfisilda.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\unutursamfisilda.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\unutursamfisilda.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\vavien.jpg",
-      "PackagePath": "staticwebassets\\images\\Filmler\\vavien.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\yahsibati.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\binnurkaya.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\binnurkaya.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\binnurkaya.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\caglarertugrul.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\caglarertugrul.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\caglarertugrul.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\cemyilmaz.jfif",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\cemyilmaz.jfif",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\cemyilmaz.jfif"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\dogudemirkol.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\dogudemirkol.png",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\dogudemirkol.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\engingunaydin.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\engingunaydin.png",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\engingunaydin.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\erdalbesikcioglu.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\farahzeynep.jfif"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\mehmetgunsur.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\mehmetgunsur.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\mehmetgunsur.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\ozanguven.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\ozanguven.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\ozanguven.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\zaferalgoz.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\zaferalgoz.jpg",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\zaferalgoz.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\buyulu-fener.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\buyulu-fener.jpg",
       "PackagePath": "staticwebassets\\images\\Sinemalar\\buyulu-fener.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemapink.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemapink.jpg",
       "PackagePath": "staticwebassets\\images\\Sinemalar\\cinemapink.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemaximum.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\cinemaximum.png",
       "PackagePath": "staticwebassets\\images\\Sinemalar\\cinemaximum.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\prestigeSinema.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\prestigeSinema.jpg",
       "PackagePath": "staticwebassets\\images\\Sinemalar\\prestigeSinema.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\sinemaYedi.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Sinemalar\\sinemaYedi.jpg",
       "PackagePath": "staticwebassets\\images\\Sinemalar\\sinemaYedi.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\aliatay.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\aliatay.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\aliatay.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\alpercaglar.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\alpercaglar.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\alpercaglar.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caganirmak.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caganirmak.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\caganirmak.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\nuribilge.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\omerfaruksorak.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\omerfaruksorak.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\omerfaruksorak.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\ozanaciktan.jfif",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\ozanaciktan.jfif",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\ozanaciktan.jfif"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\serdarakar.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\serdarakar.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\serdarakar.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\yagmurtaylan.jpg",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\yagmurtaylan.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\yagmurtaylan.jpg"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\login.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\login.png",
       "PackagePath": "staticwebassets\\images\\login.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\shopping-cart.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\shopping-cart.png",
       "PackagePath": "staticwebassets\\images\\shopping-cart.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\sign-up.png",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\sign-up.png",
       "PackagePath": "staticwebassets\\images\\sign-up.png"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Hakan Yılmaz\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

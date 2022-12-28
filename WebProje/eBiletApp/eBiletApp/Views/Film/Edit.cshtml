@@ -5,10 +5,10 @@
     ViewData["Title"] = "Film Bilgilerini Düzenle";
 }
 
-<h2>@localizer["Film Bilgilerini Düzenle"]</h2>
+<h2 class="text-center">@localizer["Film Bilgilerini Düzenle"]</h2>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-left m-auto form">
         <form method="post" enctype="multipart/form-data" asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="FilmId" />

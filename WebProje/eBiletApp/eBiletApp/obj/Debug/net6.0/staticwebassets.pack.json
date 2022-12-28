@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\Recepİvedik7.jpg",
+      "PackagePath": "staticwebassets\\images\\Filmler\\Recepİvedik7.jpg"
+    },
+    {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ahlatagaci.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\ahlatagaci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ailearasinda.jpg",
+      "PackagePath": "staticwebassets\\images\\Filmler\\ailearasinda.jpg"
     },
     {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ayla.jpg",
@@ -49,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\Filmler\\unutursamfisilda.jpg"
     },
     {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\vavien.jpg",
+      "PackagePath": "staticwebassets\\images\\Filmler\\vavien.jpg"
+    },
+    {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
       "PackagePath": "staticwebassets\\images\\Filmler\\yahsibati.jpg"
     },
@@ -75,6 +87,10 @@
     {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\engingunaydin.png",
       "PackagePath": "staticwebassets\\images\\Oyuncular\\engingunaydin.png"
+    },
+    {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg",
+      "PackagePath": "staticwebassets\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg"
     },
     {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg",
@@ -127,6 +143,10 @@
     {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caganirmak.jpg",
       "PackagePath": "staticwebassets\\images\\Yonetmenler\\caganirmak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caner-alper-1637908243.jpg",
+      "PackagePath": "staticwebassets\\images\\Yonetmenler\\caner-alper-1637908243.jpg"
     },
     {
       "Id": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",

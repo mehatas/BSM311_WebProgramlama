@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jKkgvX+3MPNzbkozF1LZyME4QDY/Mwv2rH1IgyoN+ZY=",
+  "Hash": "OIShA8kdLZMKeg0BSuNOm6u0ySI89dvByugrMVSRBnc=",
   "Source": "eBiletApp",
   "BasePath": "_content/eBiletApp",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\ahlatagaci.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ailearasinda.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Filmler/ailearasinda.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Filmler\\ailearasinda.jpg"
     },
     {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\ayla.jpg",
@@ -221,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\pekyakinda.jpg"
     },
     {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\Recepİvedik7.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Filmler/Recepİvedik7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Filmler\\Recepİvedik7.jpg"
+    },
+    {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\unutursamfisilda.jpg",
       "SourceId": "eBiletApp",
       "SourceType": "Discovered",
@@ -236,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Filmler\\unutursamfisilda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\vavien.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Filmler/vavien.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Filmler\\vavien.jpg"
     },
     {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Filmler\\yahsibati.jpg",
@@ -389,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\erdalbesikcioglu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Oyuncular/erdal-besikcioglu-1670323859.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Oyuncular\\erdal-besikcioglu-1670323859.jpg"
     },
     {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Oyuncular\\farahzeynep.jfif",
@@ -627,6 +695,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\caganirmak.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\caner-alper-1637908243.jpg",
+      "SourceId": "eBiletApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\",
+      "BasePath": "_content/eBiletApp",
+      "RelativePath": "images/Yonetmenler/caner-alper-1637908243.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Yonetmenler\\caner-alper-1637908243.jpg"
     },
     {
       "Identity": "C:\\Users\\İbrahim ATAŞ\\Desktop\\eBiletApp\\eBiletApp\\wwwroot\\images\\Yonetmenler\\nuribilge.jpg",

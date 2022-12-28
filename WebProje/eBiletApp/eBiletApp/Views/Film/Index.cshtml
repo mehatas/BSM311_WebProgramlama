@@ -15,21 +15,25 @@
                             <p class="card-text">
                                 <h5 class="card-title">
                                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
-                                    {<a class=" btn btn-dark text-white float-md-right" style="font-size:large" asp-action="Edit" asp-route-id="@item.FilmId">Düzenle</a>}
+                                    {
+                                        <a class=" btn btn-dark text-white float-md-right" style="font-size:large" asp-action="Edit" asp-route-id="@item.FilmId">@localizer["Düzenle"]</a>
+                                    }
                                     <a class="text-center">            @item.FilmAdi   </a>
                                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
-                                    {<a class="btn btn-danger text-white float-md-right" style="font-size:large" asp-action="Delete" asp-route-id="@item.FilmId">Sil</a>}
+                                    {
+                                        <a class="btn btn-danger text-white float-md-right" style="font-size:large" asp-action="Delete" asp-route-id="@item.FilmId">@localizer["Sil"]</a>
+                                    }
                                 </h5>
                             </p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="card-body">
-                            <p class="card-text" ><b>Film Hakkında: </b>@item.FilmHakkinda.Substring(0,100)...</p>
-                            <p class="card-text" ><b>Kategori: </b>@item.FilmKategorisi</p>
-                            <p class="card-text" ><b>Sinema:  </b>@item.Sinema.SinemaAdi</p>
+                            <p class="card-text"><b>@localizer["Film Hakkında"]: </b>@item.FilmHakkinda.Substring(0,100)...</p>
+                            <p class="card-text"><b>@localizer["Kategori"]:  </b>@item.FilmKategorisi</p>
+                            <p class="card-text"><b>@localizer["Sinema"]:  </b>@item.Sinema.SinemaAdi</p>
                             <p class="card-text" >
-                                <b>Seans Seçiniz: </b>
+                                <b>@localizer["Seans Seçiniz"]: </b>
                                 <select name="saat" id="saat" style=" border: none; overflow: hidden; background-color: whitesmoke;">
                                     <option class="btn btn-dark card-text" value="bir">@item.FilmBaslamaSaati1</option>
                                     <option class="btn btn-dark card-text" value="iki">@item.FilmBaslamaSaati2</option>
@@ -45,10 +49,10 @@
                         <div class="card-footer">
                             <p class="card-text">
                                 <a class="btn btn-outline-secondary float-right" asp-action="Details" asp-route-id="@item.FilmId">
-                                    Daha Fazla
+                                    @localizer["Daha Fazla"]
                                 </a>
                                 <a asp-controller="Siparis" asp-action="SepeteEkleArtir" asp-route-id="@item.FilmId" class="btn btn-success text-white">
-                                    Bilet Al @item.FilmUcreti TL
+                                    @localizer["Bilet Al"] @item.FilmUcreti TL
                                 </a>
                             </p>
                         </div>

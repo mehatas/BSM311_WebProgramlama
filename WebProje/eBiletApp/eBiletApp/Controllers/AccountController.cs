@@ -80,7 +80,6 @@ namespace eBiletApp.Controllers
                 var yeniUye = new Kullanici()
                 {
                     AdSoyad = uyelik.AdSoyad,
-                    // UserName = uyelik.AdSoyad.ToLower().Trim(' ',''),
                     UserName = String.Concat(uyelik.AdSoyad.Where(c => !Char.IsWhiteSpace(c))).ToLower(),
                     Email = uyelik.Email
 

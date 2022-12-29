@@ -120,4 +120,7 @@
   <data name="tumuyeler" xml:space="preserve">
     <value>Tüm Üyeler</value>
   </data>
+  <data name="USERNAME" xml:space="preserve">
+    <value>Kullanıcı Adı</value>
+  </data>
 </root>

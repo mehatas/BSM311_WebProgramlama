@@ -120,6 +120,9 @@
   <data name="Ad Soyad" xml:space="preserve">
     <value>Name Surname</value>
   </data>
+  <data name="Bu E-Posta Adresi kullanımda!" xml:space="preserve">
+    <value>a</value>
+  </data>
   <data name="E-posta Adresi" xml:space="preserve">
     <value>E-Mail Address</value>
   </data>

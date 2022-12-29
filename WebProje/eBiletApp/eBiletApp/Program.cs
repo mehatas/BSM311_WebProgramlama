@@ -32,8 +32,7 @@ builder.Services.AddScoped<IYonetmenRepository, YonetmenRepository>();
 builder.Services.AddScoped<IFilmRepository, FilmRepository>();
 builder.Services.AddScoped<ISiparisRepository, SiparisRepository>();
 
-//Alýþveriþ sepeti için konfigürasonlar 
-//singleton servisler sadece ilk requestte oluþturulurlar.
+
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped(sr => SepetRepository.AlisVerisSepetiniGetir(sr));
 
@@ -59,7 +58,8 @@ builder.Services.AddAuthentication(options =>
     options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
 });
 
-//Coklu dil destegi icin
+
+
 builder.Services.AddLocalization(opt => { opt.ResourcesPath = "Resources"; });
 builder.Services.AddMvc()
     .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
@@ -99,11 +99,6 @@ app.UseSession();
 app.UseAuthentication();
 app.UseAuthorization();
 
-//coklu dil destegi icin
-//app.UseRequestLocalization(((IApplicationBuilder)app).ApplicationServices.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
-//coklu dil destegi icin
-//app.UseRequestLocalization(app.ApplicationServices.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
-
 app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
 
 
@@ -118,8 +113,3 @@ BiletDbInitializer.EklenecekVeriler(app);
 BiletDbInitializer.KullaniciVeRolEkle(app).Wait();
 
 app.Run();
-
-
-
-
-//< body style = "background: linear-gradient(45deg, white, black);" >

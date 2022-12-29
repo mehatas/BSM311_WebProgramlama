@@ -20,50 +20,15 @@ namespace eBiletApp.Data
             {
                 var context = scope.ServiceProvider.GetService<BiletDbContext>();
 
-                //Veritabanının varlığından emin olmak için
+                //veritabaninin olup olmadigi kontrol ediliyor.
                 context.Database.EnsureCreated();
 
-                //Eğer tablolarda hiç veri yoksa test verilerimizi ekliyoruz.
+               
                 if (!context.Sinemalar.Any())
                 {
                     context.Sinemalar.AddRange(new List<Sinema>()
                     {
-                        new Sinema()
-                        {
-                            SinemaAdi = "Cinemaximum Gordion AVM",
-                            SinemaFotografi = "~/images/Sinemalar/cinemaximum.png",
-                            SinemaHakkinda = "Mars Cinema Group; 2001 yılında teknoloji ve konforu, beklentilerin üzerinde hizmet anlayışı ile birleştirerek, " +
-                                            "Türkiye’de farklı ve kendine özgü bir sinema deneyimi yaratma felsefesiyle kurulmuştur."+
-                                            "Sunmuş olduğu hizmet ve teknolojik yenilikler ile 2013 yılında dünyanın en büyük sinema birliği olan " +
-                                            "UNIC (International Union of Cinemas) tarafından “Uluslararası Yılın Sinema Grubu” ödülüne layık görülen Mars Cinema Group," +
-                                            " 36 şehirde 97 sinema işletmesi ve 848 salon sayısı ile Türkiye’nin en büyük sinema zinciridir."
-                        },
-                        new Sinema()
-                        {
-                            SinemaAdi = "Sinema Yedi",
-                            SinemaFotografi = "~/images/Sinemalar/sinemaYedi.jpg",
-                            SinemaHakkinda = "Bizim misyonumuz, oda sineması veya kişiye özel sinema konseptiyle, " +
-                            "filmseverlere güzel bir kültürel aktiviteyi mümkün olan en huzurlu ortamda, en kaliteli haliyle yaşatmaktır."
-                        },
-                        new Sinema()
-                        {
-                            SinemaAdi = "Cinema Pink 365 AVM",
-                            SinemaFotografi = "~/images/Sinemalar/cinemapink.jpg",
-                            SinemaHakkinda = "Sinema salonu işletmeciliğini bilinen kalıpların dışına çıkarmayı kendine hedef olarak belirleyen Cinema Pink,"+
-                                                "öncelikle hem salonlarda, hem de fuaye alanlarında seyircinin rahatını ön planda tutmaktadır."+
-                                                "Bunu sadece konfor olarak değil, gişe, cafe ve büfelerdeki fiyatlandırma politikasında da görmeniz mümkündür."+
-                                                "‘’Kalite” ve “ucuzluğu” bir arada uygulamak bizim için her zaman öncelikli hedef olmuştur."
-                        },
-                        new Sinema()
-                        {
-                            SinemaAdi = "Prestige Sinema Dünyası Kentpark AVM",
-                            SinemaFotografi = "~/images/Sinemalar/prestigeSinema.jpg",
-                            SinemaHakkinda = "Hani biletinizi elinize aldığınızdaki o güzel tebesüm ile salonun yolunu tutarsınız ya, o rahat deri koltuklara oturduğunuzda, " +
-                            "hiç tanımadığınız kişiler ile aynı keyfi paylaşırken, filmin sonunda salondan çıkarken, bu keyfin hiç bitmemesini istersiniz, " +
-                            "üstelik bir sonraki güzel anılarınız için plan yapmaya başlarsınız; " +
-                            "İşte tüm bu heyecan ve güzel anılara sahip olmanız için çalışan ekibimizi sizlerle tanıştırmak isteriz."
-                        },
-                        new Sinema()
+                            new Sinema()
                         {
                             SinemaAdi = "Büyülü Fener Sineması",
                             SinemaFotografi = "~/images/Sinemalar/buyulu-fener.jpg",
@@ -74,6 +39,43 @@ namespace eBiletApp.Data
                             "sanatçılarımız yaşarken onurlandırılmaya çalışıldı. Sinemamızın kurucusu ve sahibi İrfan Demirkol 1997 yılında Tempo dergisi tarafından " +
                             "Ankara'nın vazgeçilemeyen 100 kişisinden biri seçildi."
                         },
+                        new Sinema()
+                        {
+                            SinemaAdi = "Cinemaximum",
+                            SinemaFotografi = "~/images/Sinemalar/cinemaximum.png",
+                            SinemaHakkinda = "Mars Cinema Group; 2001 yılında teknoloji ve konforu, beklentilerin üzerinde hizmet anlayışı ile birleştirerek, " +
+                                            "Türkiye’de farklı ve kendine özgü bir sinema deneyimi yaratma felsefesiyle kurulmuştur."+
+                                            "Sunmuş olduğu hizmet ve teknolojik yenilikler ile 2013 yılında dünyanın en büyük sinema birliği olan " +
+                                            "UNIC (International Union of Cinemas) tarafından “Uluslararası Yılın Sinema Grubu” ödülüne layık görülen Mars Cinema Group," +
+                                            " 36 şehirde 97 sinema işletmesi ve 848 salon sayısı ile Türkiye’nin en büyük sinema zinciridir."
+                        },
+                         new Sinema()
+                        {
+                            SinemaAdi = "Prestige Sinema Dünyası",
+                            SinemaFotografi = "~/images/Sinemalar/prestigeSinema.jpg",
+                            SinemaHakkinda = "Hani biletinizi elinize aldığınızdaki o güzel tebesüm ile salonun yolunu tutarsınız ya, o rahat deri koltuklara oturduğunuzda, " +
+                            "hiç tanımadığınız kişiler ile aynı keyfi paylaşırken, filmin sonunda salondan çıkarken, bu keyfin hiç bitmemesini istersiniz, " +
+                            "üstelik bir sonraki güzel anılarınız için plan yapmaya başlarsınız; " +
+                            "İşte tüm bu heyecan ve güzel anılara sahip olmanız için çalışan ekibimizi sizlerle tanıştırmak isteriz."
+                        },
+                        new Sinema()
+                        {
+                            SinemaAdi = "Sinema Yedi",
+                            SinemaFotografi = "~/images/Sinemalar/sinemaYedi.jpg",
+                            SinemaHakkinda = "Bizim misyonumuz, oda sineması veya kişiye özel sinema konseptiyle, " +
+                            "filmseverlere güzel bir kültürel aktiviteyi mümkün olan en huzurlu ortamda, en kaliteli haliyle yaşatmaktır."
+                        },
+                        new Sinema()
+                        {
+                            SinemaAdi = "Cinema Pink",
+                            SinemaFotografi = "~/images/Sinemalar/cinemapink.jpg",
+                            SinemaHakkinda = "Sinema salonu işletmeciliğini bilinen kalıpların dışına çıkarmayı kendine hedef olarak belirleyen Cinema Pink,"+
+                                                "öncelikle hem salonlarda, hem de fuaye alanlarında seyircinin rahatını ön planda tutmaktadır."+
+                                                "Bunu sadece konfor olarak değil, gişe, cafe ve büfelerdeki fiyatlandırma politikasında da görmeniz mümkündür."+
+                                                "‘’Kalite” ve “ucuzluğu” bir arada uygulamak bizim için her zaman öncelikli hedef olmuştur."
+                        },
+                       
+                    
                     });
                     context.SaveChanges();
                 }
@@ -84,24 +86,35 @@ namespace eBiletApp.Data
                     {
                         new Oyuncu()
                         {
-                            OyuncuAdSoyad = "Engin Günaydın",
-                            OyuncuHakkinda = "Engin Günaydın, Türk komedyen, sinema ve tiyatro oyuncusu. " +
-                            "Bir Demet Tiyatro ile televizyon hayatına başlayan, Aşkım Aşkım ve Zaga'da daha geniş kitlelere kendini tanıtan Günaydın " +
-                            "2005 yılında Burhan Altıntop rolü ile Avrupa Yakası'nda patlama yaşar. Engin Günaydın, Garanti Bankası reklamında da oynadı.",
-                            OyuncuFotografi = "~/images/Oyuncular/engingunaydin.png"
+                            OyuncuAdSoyad = "Erdal Beşikçioğlu",
+                            OyuncuHakkinda = "5 Ocak 1970 yılında, Ünyeli bir baba ve Kosova Priştine'den Ankara'ya göç etmiş " +
+                            "Arnavut bir ailenin kızı olan bir annenin ilk çocuğu olarak Ankara'da dünyaya geldi." +
+                            " Orta öğrenimini İzmir Özel Türk Kolejinde tamamladı." +
+                            " İzmir Narlıdere Mehmet Seyfi Eraltay Lisesinden mezun oldu. 1989 yılında Hacettepe Üniversitesi Devlet Konservatuvarına girdi." +
+                            " Konservatuvar eğitimi sırasında William Guskill ile yaratıcı drama üzerine atölye çalışmalarına katıldı. " +
+                            "1993 yılında mezun oldu ve aynı yıl Devlet Tiyatrolarında oyuncu olarak göreve başladı." +
+                            " 1995-96 sezonunda Diyarbakır Devlet Tiyatrosunda müdür vekili olarak görev aldı.",
+                            OyuncuFotografi = "~/images/Oyuncular/erdalbesikcioglu.jpg"
+                        },
+                        new Oyuncu()
+                        {
+                            OyuncuAdSoyad = "Haluk Bilginer",
+                            OyuncuHakkinda = "5 Haziran 1954 günü üç kardeşin ortancası olarak dünyaya gelmiştir. İzmir Türk Koleji'nden mezun olmuştur." +
+                            "Lise son sınıfta okulunun tiyatro koluna girmiş ve Cahit Gürkan'ın öğrencisi olmuştur. Liselerarası tiyatro yarışmasında ilk ödülünü almıştır. " +
+                            "Jürideki tiyatro müdürü Ragıp Haykır'ın davetiyle İzmir Devlet Tiyatrosu'nda konuk oyuncu olarak çalıştı." +
+                            " Gençlik yıllarında İngiltere'de ün yaptı. Öyle ki; İngiltere'deki bir dergiye en seksi Türk başlığıyla kapak oldu.",
+
+                            OyuncuFotografi = "~/images/Oyuncular/halukbilginer.jpg"
 
                         },
                         new Oyuncu()
                         {
-                            OyuncuAdSoyad = "Binnur Kaya",
-                            OyuncuHakkinda = "Ankara'da doğmuştur. Aslen Adanalıdır. 1995 yılında Bilkent Üniversitesi Müzik ve Sahne Sanatları Fakültesi Tiyatro Bölümünü bitirdi. " +
-                            "Hemen ardından İstanbul'a yerleşen Kaya," +
-                            " Ankara Sahnesi ve Karatahta isimli çocuk tiyatroları ve Bakırköy Belediye Tiyatrosunda çalıştı. İlk televizyon dizisi Kaynanalar'dır. " +
-                            "Beşiktaş Kültür Merkezi oyuncu kadrosuna katıldı. 2007-2008 sezonunda Avrupa Yakası komedi dizisinin kadrosuna dahil oldu. " +
-                            "2010'da Vavien filmindeki rolüyle 42. Sinema Yazarları Derneği Ödülleri'nde ve 3. Yeşilçam Ödülleri'nde " +
-                            "En İyi Kadın Oyuncu ödüllerini kazandı. 2014 yılında ise 41. " +
-                            "Magnum Altın Kelebek Ödülleri'nde Aramızda Kalsın adlı dizideki rolüyle En İyi Kadın Komedi Oyuncusu Seçilmiştir.",
-                            OyuncuFotografi = "~/images/Oyuncular/binnurkaya.jpg"
+                            OyuncuAdSoyad = "Nejat İşler",
+                            OyuncuHakkinda = "1972 İstanbul Eyüp doğumlu olan Nejat İşler, tiyatroya lise yıllarında başlamıştır." +
+                            " Okul hayatından sonra ufak tefek alım-satım işlerine giren İşler, Yıldız Teknik Üniversitesi Fotoğraf bölümünü kazanmasına rağmen okula gitmez" +
+                            " ve askerliğini yapıp İstanbul’a geri döner. 1991’de Mimar Sinan Üniversitesi Konservatuar Bölümüne giren İşler 1995’te mezun oluncaya kadar devlet tiyatrosunda " +
+                            "ve televizyon dizilerinde rol aldı. ",
+                            OyuncuFotografi = "~/images/Oyuncular/nejatisler.jpg"
                         },
                         new Oyuncu()
                         {
@@ -150,50 +163,28 @@ namespace eBiletApp.Data
                         },
                           new Oyuncu()
                         {
-                            OyuncuAdSoyad = "Mehmet Günsür",
-                            OyuncuHakkinda = "Oyunculuğa yedi yaşında çeşitli reklam filmlerinde oynayarak başladı. " +
-                            "14 yaşındayken Okan Uysaler'in yönettiği Geçmiş Bahar Mimozaları adlı dizide Rutkay Aziz," +
-                            " Filiz Akın ve Müşfik Kenter gibi oyuncularla rol aldı. İtalyan Lisesinden mezun olduktan sonra Marmara Üniversitesi " +
-                            "İletişim Fakültesine girerek buradan mezun oldu. Bir müzik grubuyla konserler veren Günsür, dört yıl boyunca restoran işletmiştir." +
-                            " Hamam filminin figürasyonunu yapan bir arkadaşının aracılığıyla seçmelere katıldı. Deneme çekiminin ardından role kabul edildi ve Ferzan Özpetek'in " +
-                            "yönetmenliğindeki bu filmle adını geniş kitlelere duyurdu. Filmin ardından yalnızca oyunculuğa yönelme kararı aldı.",
-                            OyuncuFotografi = "~/images/Oyuncular/mehmetgunsur.jpg"
+                            OyuncuAdSoyad = "İsmail Hacıoğlu",
+                            OyuncuHakkinda = "İsmail Hacıoğlu 30 Kasım 1985 yılında doğdu. Oyunculuğa ilkokul 5. sınıftayken piyeslerde oynayarak başlayan oyuncu," +
+                            " eğitimini Müjdat Gezen Sanat Merkezi Tiyatro Bölümü'nde aldı. Ardından Mimar Sinan Üniversitesi, Devlet Konservatuarı Tiyatro Bölümü'nü kazanan oyuncu okulu ilk senesinde bıraktı." +
+                            " Kariyerinin başlangıcından beni parlak bir çizgide ilerleyen Hacıoğlu, " +
+                            "2003 yılında çekilen Karşılaşma filmindeki performansıyla 40. Antalya Altın Portakal Film Festivali Umut Veren Genç Oyuncu Ödülü kazandı.",
+                            OyuncuFotografi = "~/images/Oyuncular/ismail.jpg"
                         },
+                  
                            new Oyuncu()
                         {
-                            OyuncuAdSoyad = "Erdal Beşikçioğlu",
-                            OyuncuHakkinda = "5 Ocak 1970 yılında, Ünyeli bir baba ve Kosova Priştine'den Ankara'ya göç etmiş " +
-                            "Arnavut bir ailenin kızı olan bir annenin ilk çocuğu olarak Ankara'da dünyaya geldi." +
-                            " Orta öğrenimini İzmir Özel Türk Kolejinde tamamladı." +
-                            " İzmir Narlıdere Mehmet Seyfi Eraltay Lisesinden mezun oldu. 1989 yılında Hacettepe Üniversitesi Devlet Konservatuvarına girdi." +
-                            " Konservatuvar eğitimi sırasında William Guskill ile yaratıcı drama üzerine atölye çalışmalarına katıldı. " +
-                            "1993 yılında mezun oldu ve aynı yıl Devlet Tiyatrolarında oyuncu olarak göreve başladı." +
-                            " 1995-96 sezonunda Diyarbakır Devlet Tiyatrosunda müdür vekili olarak görev aldı.",
-                            OyuncuFotografi = "~/images/Oyuncular/erdalbesikcioglu.jpg"
-                        },
-                           new Oyuncu()
-                        {
-                            OyuncuAdSoyad = "Çağlar Ertuğrul",
-                            OyuncuHakkinda = "13 Nisan 2009 tarihinde ilk kez Koç Üniversitesi'nde Romeolar ve Julietler adlı bir oyunda oynayarak sahne aldı. " +
-                            "Ardından çeşitli oyunlarda sahneye çıktı. Üniversite'den mezun olduktan sonra " +
-                            "Vahide Gördüm'ün 35 Buçuk Akademisi'nde 1 yıl eğitim gördü. 2012 yılında Alper Çağlar'ın yönettiği Dağ adlı bir askerî filmin baş rolünde yer aldı. " +
-                            "Filmde Çağlar Ertuğrul'a Ufuk Bayraktar eşlik etti. Film 170.000 TL olan bütçesinin çok üzerinde 3 milyon TL hasılata ulaştı." +
-                            " Bu filmin ardından tanındı. Benim İçin Üzülme dizisinden teklif gelmesiyle birlikte makine mühendisliğinden vazgeçip oyunculuk kariyerine odaklandı." +
-                            " 2016-2017'de West Hollywood, Lee Strasberg Tiyatro ve Film Okulu'nda metot oyunculuğu ve doğaçlama komedi üzerine konservatuvar eğitimi aldı.",
-                            OyuncuFotografi = "~/images/Oyuncular/caglarertugrul.jpg"
+                            OyuncuAdSoyad = "Şahan Gökbakar",
+                            OyuncuHakkinda = "Şahan Gökbakar (d. 22 Ekim 1980, İzmir), Türk komedyen ve oyuncu; Recep İvedik film serisinin yapımcısı, senaristi ve oyuncusu. " +
+                            "İlk rol aldığı film 2006 yapımı Gen, ilk başrol oynadığı filmi ise 2008 yapımı Recep İvedik'tir.",
+                            OyuncuFotografi = "~/images/Oyuncular/sahan.jpg"
                         },
                             new Oyuncu()
                         {
-                            OyuncuAdSoyad = "Doğu Demirkol",
-                            OyuncuHakkinda = "Mersinli avukat bir anneyle Çerkes kökenli Balıkesirli doktor bir babanın oğlu olarak Ankara'da doğdu." +
-                            " Ortaokulu Amasya’da liseyi ise Ankara’da okudu. Lisans eğitimi için İstanbul Üniversitesi Bilgisayar Mühendisliği bölümünü bitirdi."+
-                            "Önceleri sosyal medya üzerinden çeşitli komedi video çalışmaları yapan Demirkol, 2012 yılında Yetenek Sizsiniz yarışmasına katıldı. " +
-                            "2016 yılında BKM'de Açık Mikrofon adıyla gösteriler yaptı. " +
-                            "Buradaki başarısından sonra Güldür Güldür adlı programa konuk olarak katılıp kısa bir stand-up gösterisi sundu."+
-                            "2018 yılında Ali Atay'ın yönettiği Ölümlü Dünya filminde canlandırdığı Zafer karakteri ile sinema hayatı başladı." +
-                            " Aynı yıl İlk gösterimi 71. Cannes Film Festivali'nde gerçekleştirilen Nuri Bilge Ceylan'ın yönettiği " +
-                            "Ahlat Ağacı filminde Sinan Karasu karakteriyle başrolde yer aldı.",
-                            OyuncuFotografi = "~/images/Oyuncular/dogudemirkol.png"
+                            OyuncuAdSoyad = "Öznür Serçeler",
+                            OyuncuHakkinda = "Öznur Serçeler, 10 Ekim 1987'de Kayseri'de doğdu. Müzik eğitimine 2001 yılında Mersin Üniversitesi Konservatuvarında Turkol Çankaya ile başladı." +
+                            " Ardından 2003 yılında Bilkent Üniversitesi Müzik ve Sahne Sanatları Fakültesi'nde müzik eğitimine devam etti. " +
+                            "2007 yılında Dünya Gençlik Orkestrası projesine katıldı ve Berlin, Kasel ve Bodrum'da konserlere katıldı. 2007 yılında Öznur Serçeler Elite Model Look'a katıldı.",
+                            OyuncuFotografi = "~/images/Oyuncular/oznurserceler.png"
                         }
                     });
                     context.SaveChanges();
@@ -215,40 +206,13 @@ namespace eBiletApp.Data
 
                     new Yonetmen()
                     {
-                        YonetmenAdSoyad = "Ozan Açıktan",
-                        YonetmenHakkinda = "Ozan Açıktan, Eskişehir doğumlu Türk yönetmen ve senarist. ",
-                        YonetmenFotografi = "~/images/Yonetmenler/ozanaciktan.jfif"
+                        YonetmenAdSoyad = "Can Ulkay",
+                        YonetmenHakkinda = "Can Ulkay, Türk, film yönetmeni. 90. Akademi Ödülleri'nin Yabancı Dilde En İyi Film Ödülü" +
+                        "kategorisinde yarışmak üzere Türkiye'nin aday adayı olarak seçilen Ayla filmi ile tanınmaktadır. ",
+                        YonetmenFotografi = "~/images/Yonetmenler/canulkay.jpeg"
 
                     },
-
-                    new Yonetmen()
-                    {
-                        YonetmenAdSoyad = "Serdar Akar",
-                        YonetmenHakkinda = "1987'de Mimar Sinan Üniversitesi Sinema-TV Bölümüne girdi ve 2000 yılında okulu bitirdi. Türk yönetmen ve senaristtir. ",
-                        YonetmenFotografi = "~/images/Yonetmenler/serdarakar.jpg"
-
-                    },
-
-                    new Yonetmen()
-                    {
-                        YonetmenAdSoyad = "Alper Çağlar",
-                        YonetmenHakkinda = "Süleyman Alper Çağlar, Türk sinema yönetmeni ve senarist.",
-                        YonetmenFotografi = "~/images/Yonetmenler/alpercaglar.jpg"
-
-                    },
-
-
-                    new Yonetmen()
-                    {
-                        YonetmenAdSoyad = "Ömer Faruk Sorak",
-                        YonetmenHakkinda = "Ömer Faruk Sorak, görüntü ve video klip yönetmeni. " +
-                        "1986 yılında Ankara Üniversitesi Basın Yayın Yüksekokulu'nu bitirdi. 1987-1995 yılları arasında TRT'de kameraman olarak çalıştı.",
-                        YonetmenFotografi = "~/images/Yonetmenler/omerfaruksorak.jpg"
-                      
-
-                    },
-
-                    new Yonetmen()
+                      new Yonetmen()
                     {
                         YonetmenAdSoyad = "Cem Yılmaz",
                         YonetmenHakkinda = "23 Nisan 1973 tarihinde İstanbul'da doğdu. Aslen Gürün, Sivaslıdır. " +
@@ -258,36 +222,27 @@ namespace eBiletApp.Data
                             "Leman Kültür Merkezinde gerçekleştirdi. Sonrasında Beşiktaş Kültür Merkezinde sahne almaya başladı ve burada düzenlediği " +
                             "gösteriler ile adını duyurmayı başararak günümüze kadar toplamda 4.000'den fazla kez sahneye çıktı.",
                             YonetmenFotografi = "~/images/Oyuncular/cemyilmaz.jfif"
-                      
+
+
+                    },
+                    new Yonetmen()
+                    {
+                        YonetmenAdSoyad = "Mehmet Binay",
+                        YonetmenHakkinda = "31 Ekim 1972, İstanbul doğumlu. 16 yıl önce master öğrencisiyken ilerideki kariyerime dair adımlar atıyor," +
+                        " seyahat edip bazı yerlerde kalıp dil öğreniyordum. İnternette oluşturulan ilk Türkçe elektronik dergi için ve farklı yerlerde yazıyordum." +
+                        " Düşünselliğin ağır bastığı bir dönemdeydim. Üniversitedeyken fotoğraf çekmeye başlamıştım, sonrasında NTV’de televizyon haberciliğini öğrendim. ",
+                        YonetmenFotografi = "~/images/Yonetmenler/mehmet.jpg"
 
                     },
 
                     new Yonetmen()
                     {
-                        YonetmenAdSoyad = "Ali Atay",
-                        YonetmenHakkinda = "Dursun Ali Atay, Türk oyuncu, müzisyen ve film yönetmeni.",
-                        YonetmenFotografi = "~/images/Yonetmenler/aliatay.jpg"
-                        
+                        YonetmenAdSoyad = "Togan Gökbakar",
+                        YonetmenHakkinda = "Togan Gökbakar, Türk sinema film yönetmeni ve senaristi.",
+                        YonetmenFotografi = "~/images/Yonetmenler/togan.jpeg"
 
                     },
 
-                    new Yonetmen()
-                    {
-                        YonetmenAdSoyad = "Çağan Irmak",
-                        YonetmenHakkinda = "Çağan Irmak, Türk dizi ve film yönetmeni, senaryo yazarı. ",
-                        YonetmenFotografi = "~/images/Yonetmenler/caganirmak.jpg"
-                       
-
-                    },
-
-                    new Yonetmen()
-                    {
-                        YonetmenAdSoyad = "Yağmur Taylan",
-                        YonetmenHakkinda = "Yağmur Taylan, Bursa doğumlu Türk film yönetmeni.",
-                        YonetmenFotografi = "~/images/Yonetmenler/yagmurtaylan.jpg"
-                    
-
-                    }
 
                     });
                     context.SaveChanges();
@@ -324,7 +279,7 @@ namespace eBiletApp.Data
                             FilmBaslamaSaati2 = "12:30",
                             FilmBaslamaSaati3="15:00",
                             SinemaId = 2,
-                            YonetmenId = 1,
+                            YonetmenId = 4,
                             FilmKategorisi = FilmKategorisi.Dram
                         },
                         new Film()
@@ -356,109 +311,42 @@ namespace eBiletApp.Data
                             FilmBaslamaSaati2 = "18:00",
                             FilmBaslamaSaati3="21:15",
                             SinemaId = 4,
-                            YonetmenId = 5,
+                            YonetmenId = 3,
                             FilmKategorisi = FilmKategorisi.Aksiyon
-                            //cem, ozan,zafer
+                           
                         },
 
                         new Film()
                         {
-                            FilmAdi = "Unutursam Fısılda",
-                            FilmHakkinda = "Eski bir pop sanatçısı Alzheimer hastalığına yakalanınca eski evine dönüp anılarının içinde dolanır." +
-                            " Şöhrete nasıl kavustugunu düşünürken hayatını mahvettiğine inandığı ablasıyla yüzleşir.",
+                            FilmAdi = "Arifv216",
+                            FilmHakkinda = "Cem Yılmaz'ın senaryosunu kaleme alıp başrolünde yer aldığı Arif v 216, G.O.R.A filmiyle tanıştığımız" +
+                            " Arif ve Robot 216 karakterlerini yeniden bir araya getiriyor.",
                             FilmUcreti = 30,
-                            FilmFotografi = "~/images/Filmler/unutursamfisilda.jpg",
+                            FilmFotografi = "~/images/Filmler/arifv216.jpg",
                             FilmBaslamaSaati1 = "12:00",
                             FilmBaslamaSaati2 = "15:30",
                             FilmBaslamaSaati3="17:45",
                             SinemaId = 2,
-                            YonetmenId = 9,
-                            FilmKategorisi = FilmKategorisi.Dram
-                            //farah,mehmet
-                        },
-
-                        new Film()
-                        {
-                            FilmAdi = "Çiçero",
-                            FilmHakkinda = "Çiçero, yönetmenliğini Serdar Akar'ın gerçekleştirdiği 2019 çıkışlı biyografik drama filmidir." +
-                            " II. Dünya Savaşı öncesinde Nazi Almanyası adına casusluk yapan ve " +
-                            "Çiçero lakabıyla tanınan Elyesa Bazna isimli Arnavut casusun hayatını anlatan filmin başrolünde Erdal Beşikçioğlu yer almaktadır.",
-                            FilmUcreti = 35,
-                            FilmFotografi = "~/images/Filmler/cicero.jpg",
-                            FilmBaslamaSaati1 = "16:30",
-                            FilmBaslamaSaati2 = "18:00",
-                            FilmBaslamaSaati3="22:00",
-                            SinemaId = 1,
                             YonetmenId = 3,
-                            FilmKategorisi = FilmKategorisi.Aksiyon
-                            //erdal
+                            FilmKategorisi = FilmKategorisi.Komedi
+                         
                         },
 
-                        new Film()
+                         new Film() 
                         {
-                            FilmAdi = "Ahlat Ağacı",
-                            FilmHakkinda = "Ahlat Ağacı, yönetmenliğini Nuri Bilge Ceylan'ın gerçekleştirdiği, dram türündeki, 2018 çıkışlı sinema filmidir. " +
-                            "Nuri Bilge Ceylan, filmin senaryosunu da eşi Ebru Ceylan ve Akın Aksu ile birlikte yazdı.",
+                            FilmAdi = "Kış Uykusu",
+                            FilmHakkinda = " Kış Uykusu filmi, eski bir tiyatro oyuncusu olan Aydın'ın, Anadolu bozkırlarının ortasında, " +
+                            "adeta bir kış uykusuna yatmış gibi görünen ıssız bir mekanda, kendisiyle, hayalleriyle, sevdikleri ve taşrayla kurduğu " +
+                            "ve düşe kalka sürdürmeye çalıştığı ilişkilerini konu alıyor.",
                             FilmUcreti = 35,
-                            FilmFotografi = "~/images/Filmler/ahlatagaci.jpg",
+                            FilmFotografi = "~/images/Filmler/kisuykusu.jpg",
                             FilmBaslamaSaati1 = "10:30",
                             FilmBaslamaSaati2 = "14:15",
                             FilmBaslamaSaati3="16:00",
                             SinemaId = 3,
                             YonetmenId = 1,
                             FilmKategorisi = FilmKategorisi.Dram
-                            //dogu
                         },
-
-                         new Film()
-                         {
-                            FilmAdi = "Ölümlü Dünya",
-                            FilmHakkinda = "Nesillerdir Haydarpaşa Garı'nda Anadolu Tat Lokantası'nı " +
-                            "işleten Mermer Ailesi nesilden nesile kiralık katildir ve" +
-                            " dünya çapında etkin olan dev bir organizasyon için çalışmaktadır.",
-                            FilmUcreti = 35,
-                            FilmFotografi = "~/images/Filmler/olumludunya.jpg",
-                            FilmBaslamaSaati1 = "15:30",
-                            FilmBaslamaSaati2 = "17:45",
-                            FilmBaslamaSaati3="19:00",
-                            SinemaId = 2,
-                            YonetmenId = 8,
-                            FilmKategorisi = FilmKategorisi.Komedi
-                            //dogu
-                         },
-
-                         new Film()
-                         {
-                            FilmAdi = "Dağ 2",
-                            FilmHakkinda = "Teröristlerin elinden kurtulan iki arkadaş, " +
-                            "Kuzey Irak'ta bir terör örgütü tarafından kaçırılan bir gazeteciyi kurtarmak için özel bir time katılırlar.",
-                            FilmUcreti = 35,
-                            FilmFotografi = "~/images/Filmler/dag2.jpg",
-                            FilmBaslamaSaati1 = "20:30",
-                            FilmBaslamaSaati2 = "21:45",
-                            FilmBaslamaSaati3="23:15",
-                            SinemaId = 5,
-                            YonetmenId = 4,
-                            FilmKategorisi = FilmKategorisi.Aksiyon
-                            //cağlar
-                         },
-
-                         new Film()
-                         {
-                            FilmAdi = "Pek Yakında",
-                            FilmHakkinda = "Eşini mutlu etmek isteyen Zafer kaçak DVD satmayi keser ve bir bilim kurgu filmi çekmeye çalışır." +
-                            " Kabiliyetleri sınırlı olan bir ekiple yola çıkan Zafer'i eğlenceli ve duygusal bir macera beklemektedir.",
-                            FilmUcreti = 35,
-                            FilmFotografi = "~/images/Filmler/pekyakinda.jpg",
-                            FilmBaslamaSaati1 = "13:15",
-                            FilmBaslamaSaati2 = "16:45",
-                            FilmBaslamaSaati3="23:30",
-                            SinemaId = 4,
-                            YonetmenId = 7,
-                            FilmKategorisi = FilmKategorisi.Komedi
-                            //cem, ozan, zafer
-                         }
-
 
                     });
                     context.SaveChanges();
@@ -472,110 +360,78 @@ namespace eBiletApp.Data
                         new FilmOyuncu()
                         {
                             FilmId = 1,
-                            OyuncuId = 1
-                        },
-
-                        new FilmOyuncu()
-                        {
-                            FilmId = 2,
-                            OyuncuId = 1
-                        },
-
-                        new FilmOyuncu()
-                        {
-                            FilmId = 2,
-                            OyuncuId = 2
-                        },
-
-                        new FilmOyuncu()
-                        {
-                            FilmId = 3,
-                            OyuncuId = 3
-                        },
-
-                        new FilmOyuncu()
-                        {
-                            FilmId = 3,
-                            OyuncuId = 5
-                        },
-
-                        new FilmOyuncu()
-                        {
-                            FilmId = 4,
-                            OyuncuId = 3
-                        },
-                        new FilmOyuncu()
-                        {
-                            FilmId = 4,
-                            OyuncuId = 4
-                        },
-                        new FilmOyuncu()
-                        {
-                            FilmId = 4,
-                            OyuncuId = 5
-                        },
-
-                          new FilmOyuncu()
-                        {
-                            FilmId = 5,
-                            OyuncuId = 6
-                        },
-
-                           new FilmOyuncu()
-                        {
-                            FilmId = 5,
-                            OyuncuId = 7
-                        },
-
-                         new FilmOyuncu()
-                        {
-                            FilmId = 6,
                             OyuncuId = 8
                         },
 
                         new FilmOyuncu()
                         {
-                            FilmId = 7,
-                            OyuncuId = 10
+                            FilmId = 2,
+                            OyuncuId = 7
                         },
 
                         new FilmOyuncu()
                         {
-                            FilmId = 8,
-                            OyuncuId = 10
+                            FilmId = 2,
+                            OyuncuId = 1
                         },
 
                         new FilmOyuncu()
                         {
-                            FilmId = 9,
+                            FilmId = 3,
                             OyuncuId = 9
                         },
 
                         new FilmOyuncu()
                         {
-                            FilmId = 10,
-                            OyuncuId = 3
+                            FilmId = 3,
+                            OyuncuId = 10
+                        },
+
+                        new FilmOyuncu()
+                        {
+                            FilmId = 4,
+                            OyuncuId = 5
                         },
                         new FilmOyuncu()
                         {
-                            FilmId = 10,
+                            FilmId = 4,
                             OyuncuId = 4
                         },
                         new FilmOyuncu()
                         {
-                            FilmId = 10,
+                            FilmId = 4,
+                            OyuncuId = 6
+                        },
+                           new FilmOyuncu()
+                        {
+                            FilmId = 5,
                             OyuncuId = 5
+                        },
+                        new FilmOyuncu()
+                        {
+                            FilmId = 5,
+                            OyuncuId = 4
+                        },
+                        new FilmOyuncu()
+                        {
+                            FilmId = 5,
+                            OyuncuId = 6
+                        },
+                         new FilmOyuncu()
+                        {
+                            FilmId = 6,
+                            OyuncuId = 2
+                        },
+                            new FilmOyuncu()
+                        {
+                            FilmId = 6,
+                            OyuncuId = 3
                         },
 
                     });
                     context.SaveChanges();
                 }
-            }
-
-
-
-
-            
+            }            
         }
     
         public static async Task KullaniciVeRolEkle(IApplicationBuilder ab)
@@ -604,7 +460,7 @@ namespace eBiletApp.Data
                         Email = "g201210382@sakarya.edu.tr",
                         EmailConfirmed = true                   
                     };
-                    await um.CreateAsync(adminOlustur, "123");
+                    await um.CreateAsync(adminOlustur, "sau");
                     await um.AddToRoleAsync(adminOlustur, Roller.Admin);
                 }
 
@@ -618,7 +474,7 @@ namespace eBiletApp.Data
                         Email = "g181210382@sakarya.edu.tr",
                         EmailConfirmed = true
                     };
-                    await um.CreateAsync(kullaniciOlustur, "123");
+                    await um.CreateAsync(kullaniciOlustur, "sau");
                     await um.AddToRoleAsync(kullaniciOlustur, Roller.Kullanici);
                 }
             }

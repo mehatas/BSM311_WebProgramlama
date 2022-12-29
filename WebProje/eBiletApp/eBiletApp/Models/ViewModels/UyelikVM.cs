@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Hosting;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -8,6 +9,8 @@ namespace eBiletApp.Models.ViewModels
 {
     public class UyelikVM
     {
+       
+       
         [Required]
         [Display(Name = "Ad Soyad")]
         public string AdSoyad { get; set; }
@@ -27,5 +30,6 @@ namespace eBiletApp.Models.ViewModels
         [Display(Name = "Şifre Tekrar")]
         [Compare("Sifre",ErrorMessage ="Şifreler eşleşmiyor!")]
         public string SifreTekrar { get; set; }
+
     }
 }

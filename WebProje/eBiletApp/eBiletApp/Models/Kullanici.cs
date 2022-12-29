@@ -9,7 +9,7 @@ namespace eBiletApp.Models
 {
     public class Kullanici:IdentityUser
     {
-        [Display(Name="Adı Soyadı")]
+        [Display(Name= "ADI SOYADI")]
         public string AdSoyad { get; set; }
     }
 }

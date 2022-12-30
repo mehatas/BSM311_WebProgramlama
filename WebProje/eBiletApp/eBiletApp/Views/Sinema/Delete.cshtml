@@ -1,0 +1,37 @@
+﻿@model eBiletApp.Models.Sinema
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<h3>@localizer["Silmek istediğinize emin misiniz?"]</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SinemaFotografi)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.SinemaFotografi" asp-append-version="true" style="width:200px; height:200px;">
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SinemaAdi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SinemaAdi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SinemaHakkinda)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SinemaHakkinda)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="SinemaId" />
+        <input type="submit" value="@localizer["Sil"]" class="btn btn-danger" />
+        <a class="btn btn-secondary float-right" asp-action="Index">@localizer["Geri Dön"]</a>
+    </form>
+</div>

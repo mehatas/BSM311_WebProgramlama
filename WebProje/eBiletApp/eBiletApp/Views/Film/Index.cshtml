@@ -1,0 +1,70 @@
+﻿@model IEnumerable<eBiletApp.Models.Film>
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@{
+    ViewData["Title"] = "Filmler";
+}
+
+<div class="row" style="align-items:stretch">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 col-xs-6 border-primary mb-3">
+            <div class="card mb-3" style="max-width: 600px;">
+                <div class="row g-0">
+                    <div class="col-md-12">
+                        <div class="card-header text-white bg-info">
+                            <p class="card-text">
+                                <h5 class="card-title">
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                    {
+                                        <a class=" btn btn-dark text-white float-md-right" style="font-size:large" asp-action="Edit" asp-route-id="@item.FilmId">@localizer["Düzenle"]</a>
+                                    }
+                                    <a class="text-center">            @item.FilmAdi   </a>
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                    {
+                                        <a class="btn btn-danger text-white float-md-right" style="font-size:large" asp-action="Delete" asp-route-id="@item.FilmId">@localizer["Sil"]</a>
+                                    }
+                                </h5>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <p class="card-text"><b>@localizer["Film Hakkında"]: </b>@item.FilmHakkinda.Substring(0,100)...</p>
+                            <p class="card-text"><b>@localizer["Kategori"]:  </b>@item.FilmKategorisi</p>
+                            <p class="card-text"><b>@localizer["Sinema"]:  </b>@item.Sinema.SinemaAdi</p>
+                            <p class="card-text" >
+                                <b>@localizer["Seans Seçiniz"]: </b>
+                                <select name="saat" id="saat" style=" border: none; overflow: hidden; background-color: whitesmoke;">
+                                    <option class="btn btn-dark card-text" value="bir">@item.FilmBaslamaSaati1</option>
+                                    <option class="btn btn-dark card-text" value="iki">@item.FilmBaslamaSaati2</option>
+                                    <option class="btn btn-dark card-text" value="uc">@item.FilmBaslamaSaati3</option>
+                                </select>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="@item.FilmFotografi" width="100%" height="380px"  asp-append-version="true" >
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card-footer">
+                            <p class="card-text">
+                                <a class="btn btn-outline-secondary float-right" asp-action="Details" asp-route-id="@item.FilmId">
+                                    @localizer["Daha Fazla"]
+                                </a>
+                                <a asp-controller="Siparis" asp-action="SepeteEkleArtir" asp-route-id="@item.FilmId" class="btn btn-success text-white">
+                                    @localizer["Bilet Al"] @item.FilmUcreti TL
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+
+
+

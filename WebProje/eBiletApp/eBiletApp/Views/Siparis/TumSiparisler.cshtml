@@ -1,0 +1,62 @@
+﻿@model ICollection<Siparis>
+@{
+    ViewData["Title"] = "Siparişler";
+}
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+<div class="row">
+
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>@localizer["Siparis No"]</th>
+                <th style="padding-left:100px;">@localizer["Ürünler"]</th>
+                <th>@localizer["Toplam Tutar"]</th>
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                     <th>@localizer["Kullanıcı"]</th>
+}
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var siparis in Model)
+            {
+                <tr>
+                    <td class="align-middle">@siparis.SiparisId</td>
+                    <td class="align-middle">
+                        <ul>
+                            @foreach (var film in siparis.SiparisFilmler)
+                            {
+                                <li>
+                                    <div>
+                                        @((film.Fiyat * film.Adet).ToString()) TL - @film.Film.FilmAdi (@film.Adet @localizer["Bilet"])
+                                    </div>
+
+                                </li>
+
+                            }
+
+                        </ul>
+                    </td>
+                    <td class="align-middle">
+                        @siparis.SiparisFilmler.Select(m => m.Film.FilmUcreti * m.Adet).Sum().ToString() TL
+                    </td>
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <td class="align-middle">@siparis.Kullanici.UserName</td>
+}
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+
+</div>
+
+<div class="text-center">
+    <a class="btn btn-outline-success" asp-controller="Film" asp-action="Index">@localizer["Anasayfa"]</a>
+</div>
+

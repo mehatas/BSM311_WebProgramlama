@@ -120,10 +120,16 @@
   <data name="Bilgilerinizi kontrol edip tekrar deneyiniz!" xml:space="preserve">
     <value>Check your information and try again!</value>
   </data>
+  <data name="Bu E-Posta Adresi kullanımda!" xml:space="preserve">
+    <value>This e-mail address has been already used!</value>
+  </data>
   <data name="Geri Dön" xml:space="preserve">
     <value>Back</value>
   </data>
   <data name="Giriş Yap" xml:space="preserve">
     <value>Login</value>
+  </data>
+  <data name="Üyelik Tamamlandı" xml:space="preserve">
+    <value>Account created successfully</value>
   </data>
 </root>

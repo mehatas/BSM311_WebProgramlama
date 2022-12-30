@@ -9,153 +9,153 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eBiletApp
 build_property.RootNamespace = eBiletApp
-build_property.ProjectDir = C:\Users\İbrahim ATAŞ\Desktop\eBiletApp\eBiletApp\
+build_property.ProjectDir = C:\Users\Hakan Yılmaz\Desktop\eBiletApp\eBiletApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\İbrahim ATAŞ\Desktop\eBiletApp\eBiletApp
+build_property.MSBuildProjectDirectory = C:\Users\Hakan Yılmaz\Desktop\eBiletApp\eBiletApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Account/AccessDenied.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Account/Login.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Account/TumKullanicilar.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Account/TumKullanicilar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUdW1LdWxsYW5pY2lsYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Account/Uyelik.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Account/Uyelik.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVeWVsaWsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Account/UyelikTamamlandi.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Account/UyelikTamamlandi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVeWVsaWtUYW1hbWxhbmRpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Film/Create.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Film/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Film/Delete.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Film/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Film/Details.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Film/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Film/Edit.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Film/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Film/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Film/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Home/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Home/Privacy.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Create.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3l1bmN1XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Delete.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3l1bmN1XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Details.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3l1bmN1XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Edit.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3l1bmN1XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Oyuncu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3l1bmN1XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Shared/Error.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Shared/_Culture.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Shared/_Culture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdWx0dXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Sinema/Create.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Sinema/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZW1hXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Sinema/Delete.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Sinema/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZW1hXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Sinema/Details.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Sinema/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZW1hXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Sinema/Edit.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Sinema/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZW1hXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Sinema/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Sinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Siparis/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Siparis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Siparis/SiparisTamamlandi.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Siparis/SiparisTamamlandi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xTaXBhcmlzVGFtYW1sYW5kaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Siparis/TumSiparisler.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Siparis/TumSiparisler.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xUdW1TaXBhcmlzbGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Create.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Delete.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Details.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Edit.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Index.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Yonetmen/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/_ViewImports.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/_ViewStart.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/İbrahim ATAŞ/Desktop/eBiletApp/eBiletApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Hakan Yılmaz/Desktop/eBiletApp/eBiletApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pamql4udcf

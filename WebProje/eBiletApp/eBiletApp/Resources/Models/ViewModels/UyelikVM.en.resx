@@ -121,7 +121,11 @@
     <value>Name Surname</value>
   </data>
   <data name="Bu E-Posta Adresi kullanımda!" xml:space="preserve">
+<<<<<<< HEAD
+    <value>This e-mail has been already used!</value>
+=======
     <value>a</value>
+>>>>>>> 0374862f6bb7e563497643cfb4e665b894719244
   </data>
   <data name="E-posta Adresi" xml:space="preserve">
     <value>E-Mail Address</value>

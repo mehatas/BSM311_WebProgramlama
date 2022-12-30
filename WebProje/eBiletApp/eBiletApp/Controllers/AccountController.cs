@@ -88,7 +88,7 @@ namespace eBiletApp.Controllers
                 if (yeniUyeEkle.Succeeded)
                 {
                     await _userman.AddToRoleAsync(yeniUye, Roller.Kullanici);
-                    return View("UyelikTamamlandi");
+                    return View("Üyelik Tamamlandı");
                 }
 
             }

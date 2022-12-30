@@ -17,6 +17,14 @@
         },
         "runtime": {
           "eBiletApp.dll": {}
+        },
+        "resources": {
+          "en/eBiletApp.resources.dll": {
+            "locale": "en"
+          },
+          "tr/eBiletApp.resources.dll": {
+            "locale": "tr"
+          }
         }
       },
       "Azure.Core/1.24.0": {
